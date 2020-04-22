@@ -1,0 +1,6 @@
+Test Documentation
+==================
+
+.. toctree::
+
+    api
