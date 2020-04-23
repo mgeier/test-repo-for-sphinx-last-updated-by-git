@@ -12,7 +12,7 @@ extensions = [
 
 autosummary_generate = ['api']
 
-html_last_updated_fmt = '%Y-%m-%d %H:%M:%S'
+html_last_updated_fmt = '%Y-%m-%d %H:%M:%S %Z'
 
 # Remove this if you want to see the contents of the docs:
 templates_path = ['_templates']
